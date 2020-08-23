@@ -1,0 +1,1 @@
+[16-Jul-2020 12:55:14 Asia/Calcutta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::myOrder() in /home/fcyu8yusy3wr/public_html/billionare/app/Http/Controllers/UserController.php on line 254

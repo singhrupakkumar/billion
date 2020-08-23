@@ -1,0 +1,28 @@
+<svg id="email" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Rectangle_105" data-name="Rectangle 105" fill="none" stroke="#d8d8d8" stroke-width="1">
+    <rect width="38" height="38" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="37" rx="3.5" fill="none"/>
+  </g>
+  <g id="mail_1_" data-name="mail (1)" transform="translate(9 -50)">
+    <g id="Group_102" data-name="Group 102" transform="translate(1.055 61)">
+      <g id="Group_101" data-name="Group 101" transform="translate(0 0)">
+        <path id="Path_33" data-name="Path 33" d="M43.825,61H26.512a1.825,1.825,0,0,0-.791.185l9.406,9.406,2.108-2.026h0l7.38-7.38A1.825,1.825,0,0,0,43.825,61Z" transform="translate(-25.721 -61)" fill="#272a33"/>
+      </g>
+    </g>
+    <g id="Group_104" data-name="Group 104" transform="translate(13.875 62.056)">
+      <g id="Group_103" data-name="Group 103" transform="translate(0 0)">
+        <path id="Path_34" data-name="Path 34" d="M345.158,86.728l-6.945,6.945,6.945,6.945a1.824,1.824,0,0,0,.185-.791V87.519A1.825,1.825,0,0,0,345.158,86.728Z" transform="translate(-338.213 -86.728)" fill="#272a33"/>
+      </g>
+    </g>
+    <g id="Group_106" data-name="Group 106" transform="translate(0 62.055)">
+      <g id="Group_105" data-name="Group 105" transform="translate(0 0)">
+        <path id="Path_35" data-name="Path 35" d="M.185,86.721A1.825,1.825,0,0,0,0,87.512V99.82a1.825,1.825,0,0,0,.185.791L7.13,93.666Z" transform="translate(0 -86.721)" fill="#272a33"/>
+      </g>
+    </g>
+    <g id="Group_108" data-name="Group 108" transform="translate(1.055 69.87)">
+      <g id="Group_107" data-name="Group 107" transform="translate(0 0)">
+        <path id="Path_36" data-name="Path 36" d="M37.664,277.211l-2.109,2.026a.615.615,0,0,1-.87,0l-2.027-2.026-6.945,6.945a1.825,1.825,0,0,0,.791.185H43.818a1.824,1.824,0,0,0,.791-.185Z" transform="translate(-25.714 -277.211)" fill="#272a33"/>
+      </g>
+    </g>
+  </g>
+</svg>

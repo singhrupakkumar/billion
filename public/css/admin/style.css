@@ -1,0 +1,75 @@
+.login-page{   
+   background: url(./newbg.jpg); 
+    background-position: center;
+    background-size: cover;
+}
+
+.login-box-body, .register-box-body {
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+}
+.login-box-msg, .register-box-msg {
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    color: #fff;
+}
+a.btn.btn-link {
+    color: #fff;
+}
+.btn-primary {
+    background-color: #d7ba2e;
+    border-color: #d7ba2e;
+}
+
+.invalid-feedback{
+
+    color:red;
+
+}
+
+.error{
+
+    color:red;
+
+  }
+
+  
+
+ .input-number {
+
+    background-color: white;
+
+    display: inline-flex;
+
+    border: 1px solid #ccc;
+
+    color: #555;
+
+  }
+
+  
+
+ .input-number input {
+
+    border: none;
+
+    color: #555;
+
+    text-align: center;
+
+    width: 60px;
+
+  } 
+
+.table  td,th {  
+    padding: 5px !important;
+    font-size: 11px;
+    /*white-space: nowrap;*/
+}
+       
+.table  td .btn {
+    font-size: 11px;
+}    
